@@ -1,0 +1,16 @@
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\bin\Debug\net5.0\OperatorOverloadingMethods.exe
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\bin\Debug\net5.0\OperatorOverloadingMethods.deps.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\bin\Debug\net5.0\OperatorOverloadingMethods.runtimeconfig.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\bin\Debug\net5.0\OperatorOverloadingMethods.runtimeconfig.dev.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\bin\Debug\net5.0\OperatorOverloadingMethods.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\bin\Debug\net5.0\ref\OperatorOverloadingMethods.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\bin\Debug\net5.0\OperatorOverloadingMethods.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\obj\Debug\net5.0\OperatorOverloadingMethods.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\obj\Debug\net5.0\OperatorOverloadingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\obj\Debug\net5.0\OperatorOverloadingMethods.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\obj\Debug\net5.0\OperatorOverloadingMethods.AssemblyInfo.cs
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\obj\Debug\net5.0\OperatorOverloadingMethods.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\obj\Debug\net5.0\OperatorOverloadingMethods.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\obj\Debug\net5.0\ref\OperatorOverloadingMethods.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\obj\Debug\net5.0\OperatorOverloadingMethods.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\OperatorOverloadingMethods\obj\Debug\net5.0\OperatorOverloadingMethods.genruntimeconfig.cache

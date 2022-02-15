@@ -1,0 +1,12 @@
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_14\GitLab\homework_14\SystemBank\obj\Debug\SystemBank.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_14\GitLab\homework_14\SystemBank\obj\Debug\SystemBank.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_14\GitLab\homework_14\SystemBank\bin\Debug\SystemBank.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_14\GitLab\homework_14\SystemBank\bin\Debug\SystemBank.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_14\GitLab\homework_14\SystemBank\obj\Debug\SystemBank.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_14\GitLab\homework_14\SystemBank\obj\Debug\SystemBank.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\SystemBank\bin\Debug\SystemBank.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\SystemBank\bin\Debug\SystemBank.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\SystemBank\obj\Debug\SystemBank.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\SystemBank\obj\Debug\SystemBank.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\SystemBank\obj\Debug\SystemBank.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_15\GitLab\homework_15\SystemBank\obj\Debug\SystemBank.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OperatorOverloadingMethods/1.0.0": {
+        "runtime": {
+          "OperatorOverloadingMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperatorOverloadingMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
